@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kritika
 - 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning techiniques of data processing and deriving conclusions from data
+- 🌱 I’m currently learning techiniques of data analysis , Data visualisation  machine learning and deep learning
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 You can mail me at Kritiikaaa@gmail.com
 
